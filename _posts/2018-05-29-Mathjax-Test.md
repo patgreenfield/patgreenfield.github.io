@@ -4,9 +4,9 @@ title: Mathjax Test Post
 ---
 Dual curve pricing
 
-[[1]](#1).
+[Andersen and Piterbarg (2010)](#1).
 
-[[2]](#2).
+[Ametrano and Marco Bianchetti (2013)](#2).
 
 OIS discounting is used in conjunction with Libor rates for pricing in the dual-curve setup. If we consider a fixed tenor structure
 
