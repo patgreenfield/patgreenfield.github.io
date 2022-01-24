@@ -33,8 +33,8 @@ F(t,T_{n-1},T_{n}) = F_n(t) = \frac{1}{\tau_n}\left(\frac{P_{OIS}(t,T_{n-1})}{P_
 $$
 
 ## References
-<a id="1">[1]</a>
+<a id="1">1.</a>
 Leif B.G. Andersen and Vladimir V. Piterbarg. _Interest Rate Modelling, Volume I: Foundations and Vanilla Models_. Atlantic Financial Press, 1st edition, 2010a.
 
-<a id="2">[2]</a>
+<a id="2">2.</a>
 Ferdinando M. Ametrano and Marco Bianchetti, Everything You Always Wanted to Know About Multiple Interest Rate Curve Bootstrapping but Were Afraid to Ask (April 2, 2013). Available at SSRN: [https://ssrn.com/abstract=2219548](https://ssrn.com/abstract=2219548)
