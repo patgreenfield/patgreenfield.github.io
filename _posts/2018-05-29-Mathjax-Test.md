@@ -11,6 +11,7 @@ Dual curve pricing
 OIS discounting is used in conjunction with Libor rates for pricing in the dual-curve setup. If we consider a fixed tenor structure
 
 \begin{align}
+\tag{Piterbarg, 1.1}
 0=T_0<T_1<\ldots<T_M,
 \label{eq:tau}\end{align}
 
