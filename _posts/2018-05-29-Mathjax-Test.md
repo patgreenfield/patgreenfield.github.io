@@ -8,10 +8,7 @@ Dual curve pricing
 
 [Ametrano and Marco Bianchetti (2013)](#2).
 
-\begin{manualtheorem}{3.2}[Turfus (2022)]
-The pricing kernel for the extended Hull-White pricing equation.
-\label{thrm:turfus_3_2}
-\end{manualtheorem}
+<b>Theorem 3.2</b> (Turfus (2022)) <i>The pricing kernel for the extended Hull-White pricing equation.</i>
 
 OIS discounting is used in conjunction with Libor rates for pricing in the dual-curve setup. If we consider a fixed tenor structure
 
