@@ -10,12 +10,6 @@ Dual curve pricing
 
 <b>Theorem 3.2</b> (Turfus (2022)) <i>The pricing kernel for the extended Hull-White pricing equation.</i>
 
-\begin{align*}
-\begin{split}
-\hat\sigma^2 = & \left(\frac{1-e^{-\alpha_r(T_{i}-T_{i-1})}}{\alpha_r^2}\right)^2\frac{\sigma_r^2}{2\alpha_r}\left(1-e^{-2\alpha_r (T_{i-1}-T_0)}\right)\dots\\
-&+\frac{\sigma^2_r}{\alpha^2_r}\left[T_{i}-T_{i-1}+\frac{2}{\alpha_r} e^{-\alpha_r(T_{i}- T_{i-1})}-\frac{1}{2\alpha_r}e^{-2\alpha_r (T_{i}-T_{i-1})}-\frac{3}{2\alpha_r}\right].
-\end{split}
-\end{align*}
 
 
 OIS discounting is used in conjunction with Libor rates for pricing in the dual-curve setup. If we consider a fixed tenor structure
